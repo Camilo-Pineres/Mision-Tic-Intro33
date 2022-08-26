@@ -1,10 +1,11 @@
-# Mision Tic 2022 cycly 3 team 33
+# Mision-Tic-Intro33
+MY FIRST PROJECT IN GITHUB
 
-# Description
+# GIT COMMANDS
 
-Introduction to web development with Java and Spring Boot, Html, Css, Js
-
-# Topics
-
-- Introduction to Scrum
-- Introduction to git# Mision-Tic-Intro33
+<ul>
+    <li>git init<strong>(AÑADIR GIT AL PROYECTO)</strong></li>
+    <li>add .<strong></strong></li>
+    <li>git commint -m ''<strong></strong></li>
+    <li>git push origin rama<strong></strong></li>
+</ul>
